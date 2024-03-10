@@ -1,2 +1,1 @@
-# Personal_Expenses_Tracker_flutter
-Personal_Expenses_Tracker_flutter
+# Flutter App: Personal Expense Tracker
